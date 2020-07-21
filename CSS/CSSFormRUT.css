@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+form, h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#iptDV{
+    max-width: 20px;
+}
+#btnValidar{
+    margin-top: 30px;
+}
+
